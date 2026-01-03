@@ -10,4 +10,4 @@ This app does not use third-party analytics tools.
 
 ## Contact
 If you have any questions, please contact:
-seilab.app@gmail.com
+ssei06756@gmail.com
